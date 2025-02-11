@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7vp6kfloSw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taytv\\Desktop\\SysMax 1\\SysMax\\SysMax\\SysMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taytv\\.nuget\\packages\\hidlibrary\\3.2.46\\hidlibrary.3.2.46.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\hidsharp\\2.1.0\\hidsharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\hwinfo.sharedmemory.net\\2.1.0\\hwinfo.sharedmemory.net.2.1.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\librehardwaremonitorlib\\0.9.4\\librehardwaremonitorlib.0.9.4.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\librehardwaremonitorlibcore\\1.0.3\\librehardwaremonitorlibcore.1.0.3.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\microsoft.winforms.designer.sdk\\1.6.0\\microsoft.winforms.designer.sdk.1.6.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\mono.posix.netstandard\\1.0.0\\mono.posix.netstandard.1.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.android-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.0\\runtime.android-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.0\\runtime.android-x86.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.0\\runtime.linux-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.0\\runtime.linux-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.0\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.0\\runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.0\\runtime.osx-x64.runtime.native.system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\siticone.winforms.ui\\2024.10.7\\siticone.winforms.ui.2024.10.7.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition.hosting\\6.0.0\\system.composition.hosting.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.io.ports\\9.0.0\\system.io.ports.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\taytv\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'hidlibrary 3.2.46' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "hidlibrary",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
